@@ -1,0 +1,11 @@
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.deps.json
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.json
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.dev.json
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfo.cs
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\micha\Documents\KBS\AngularKBSTutorial\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.pdb
