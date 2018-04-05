@@ -10,6 +10,8 @@ import { MatButtonModule,
 
 import { AppComponent } from './app.component';
 import { MessagesComponent } from './messages.component';
+import { WebService } from './web.service';
+import { HttpModule } from '@angular/http';
 
 
 @NgModule({
@@ -19,6 +21,7 @@ import { MessagesComponent } from './messages.component';
   ],
   imports: [
     BrowserModule,
+    HttpModule,
     BrowserAnimationsModule,
     MatButtonModule,
     MatCardModule,
@@ -26,7 +29,7 @@ import { MessagesComponent } from './messages.component';
     MatSnackBarModule,
     MatToolbarModule
   ],
-  providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  providers: [WebService]
 })
 export class AppModule { }

@@ -18,12 +18,12 @@ namespace MessageBoardBackend.Controllers
                 new Models.Message
                 {
                     Owner = "John",
-                    Messages = "Hey"
+                    Text = "Hey"
                 },
                 new Models.Message
                 {
                     Owner = "Bob",
-                    Messages = "Hi"
+                    Text = "Hi"
                 }
 
             };
