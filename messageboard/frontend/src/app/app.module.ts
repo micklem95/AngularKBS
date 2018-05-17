@@ -13,13 +13,15 @@ import { MessagesComponent } from './messages.component';
 import { WebService } from './web.service';
 import { HttpModule } from '@angular/http';
 import { NewMessageComponent } from './new-message.component';
-import{ FormsModule } from '@angular/forms';
+import { FormsModule } from '@angular/forms';
+import { NavComponent } from './nav.component';
 
 @NgModule({
   declarations: [
     AppComponent, 
     MessagesComponent,
-    NewMessageComponent
+    NewMessageComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,
